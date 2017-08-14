@@ -1,3 +1,5 @@
+# Hoitaa robotin ohjaamisen mittausten käskemällä tavalla.
+
 from gopigo import *
 import time
 import mittaukset
