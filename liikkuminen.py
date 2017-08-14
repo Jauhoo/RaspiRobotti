@@ -28,7 +28,7 @@ def vasen():
     stop()
     enc_tgt(1,1,15)
     fwd()
-    time.sleep(2.5)
+    time.sleep(2)
     mittaukset.mittaus()
 
 def oikea():
@@ -46,7 +46,7 @@ def oikea():
     stop()
     enc_tgt(1,1,15)
     fwd()
-    time.sleep(2)   # miksi eri aikoja sleepeissa
+    time.sleep(2)  
     mittaukset.mittaus()
 
 def ukaannos():
