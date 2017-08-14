@@ -1,3 +1,5 @@
+# Hoitaa robotin tarvittavien mittausten suorittamisen sekä niiden mukaan oikean liikkumiskomennon kutsumisen.
+
 import RPi.GPIO as GPIO
 from gopigo import *
 import time
